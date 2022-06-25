@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Dimple Choudhary
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I’m Dimple Choudhary
+
+![](https://media-exp1.licdn.com/dms/image/C4D16AQHnQVogmamfvQ/profile-displaybackgroundimage-shrink_350_1400/0/1656123399490?e=1661385600&v=beta&t=zWl0srPX0wfVtOQD2L0ptmEcJs0Xyku5ycmxeS2B2bM)
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
