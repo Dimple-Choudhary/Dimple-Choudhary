@@ -3,12 +3,14 @@ Hi 👋 My name is [Dimple Choudhary]
 
 Front-end developer(HTML-CSS-JavaScript) and designer
 --------------------------------
+![](https://user-images.githubusercontent.com/96401557/196701699-8749f074-2384-4ce0-908a-4b42e73ebe1e.png)
 
-* 🌍  I'm based in INDIA 
+* 🌍  I'm based in INDIA 
 * ✉️  You can contact me at [dimplechoudhary1606@gmail.com](mailto:dimplechoudhary1606@gmail.com)
 * 🧠  I'm learning Front-End skills and designing tools 🛠
 * 🤝  I'm open to collaborating on front-end projects
 * ⚡  I love to code 😜
+
 
 ### Skills
 
