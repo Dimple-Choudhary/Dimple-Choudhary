@@ -1,6 +1,6 @@
 
 
-<div align="center"> <b> Hey! there 👋 </b></div>
+<div align="center"> <b>  Hey! there 👋 </b></div>
 <div align="center"> <b> I'm Dimple choudhary </b> </div>
 
 
