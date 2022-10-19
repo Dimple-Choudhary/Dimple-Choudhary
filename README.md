@@ -1,7 +1,7 @@
 
 
-<div align="center"> Hey! there 👋 </div>
-<div align="center"> I'm Dimple choudhary </div>
+<div align="center"> ## Hey! there 👋 </div>
+<div align="center"> ### I'm Dimple choudhary </div>
 
 
 ![](https://user-images.githubusercontent.com/96401557/196701699-8749f074-2384-4ce0-908a-4b42e73ebe1e.png)
