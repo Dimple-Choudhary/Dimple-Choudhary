@@ -28,3 +28,11 @@
 
 [![@dimple1606's Holopin board](https://holopin.io/api/user/board?user=dimple1606)](https://holopin.io/@dimple1606)
 
+<img src="https://github-readme-stats.vercel.app/api?username=Dimple-Choudhary&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Dimple-Choudhary-git" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dimple-Choudhary&theme=jolly" width="700">
+<br>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Dimple-Choudhary&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="Dimple-Choudhary" /> </p>
+<br>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=Have+a+nice+day+!;" </p>
+
