@@ -78,19 +78,11 @@ I enjoy learning new tools quickly, adapting to new challenges, and continuously
 
 ## 📊 Sales Analysis Dashboard
 
-<p align="center">
-  <img src="images/dashboard.png" alt="Sales Dashboard" width="100%">
-</p>
-
 Interactive business dashboard built using **Python, SQL, Pandas, Matplotlib, and Streamlit** to analyze sales performance, revenue trends, top-performing products, and key business metrics.
 
 ---
 
 ## 🎬 Netflix Data Analysis
-
-<p align="center">
-  <img src="images/netflix.png" alt="Netflix Dashboard" width="100%">
-</p>
 
 Exploratory Data Analysis project uncovering trends in Netflix content, genres, ratings, release years, and content distribution using **Python** and **data visualization**.
 
